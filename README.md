@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my own project <br>👯 I’m looking to collaborate on ML<br>🤝 I’m looking for help with Data Cleaning<br>🌱 I’m currently learning JS, React<br>
+🔭 I’m currently working as a Data Scientist <br>👯 I’m looking to collaborate on ML<br>🤝 I’m looking for help with Data Cleaning<br>🌱 I’m currently learning JS, React<br>
 
 
 # 💻 Tech Stack:
